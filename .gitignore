@@ -1,0 +1,9 @@
+# Игнорировать всё, кроме кода, for_desi.csv и используемых изохрон.
+*
+
+!.gitignore
+!analysis_full.ipynb
+!for_desi.csv
+!iso1.dat
+!iso2.dat
+!iso_sum.dat
